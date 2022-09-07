@@ -1,6 +1,6 @@
-# DbD Paste ( ESP / WH )
+# DbD Paste ( )
 
-ESP objects (outdated offsets) for DBD
+ESP objects (outdated offsets) 
 
-Credits: plitgate basics
+Base: plitgate basics
 
